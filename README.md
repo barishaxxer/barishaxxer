@@ -62,18 +62,6 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiastic who lo
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
-  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://logos-world.net/wp-content/uploads/2021/02/Splunk-Logo.png" alt="splunk" width="80" height="40"/>
-  </a>
-  <a href="https://www.sentinelone.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.sentinelone.com/wp-content/uploads/2020/07/sentinelone-icon.svg" alt="sentinelone" width="100" height="40"/>
-  </a>
-  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MITRE_logo.svg/1200px-MITRE_logo.svg.png" alt="mitre attack" width="60" height="40"/>
-  </a>
-  <a href="https://www.burpsuite.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/cms/images/62/20/5d-a0-76e2-4e7e-8945-06449fbbb82f-burp-512x512.png" alt="burpsuite" width="40" height="40"/>
-  </a>
 
 
 <!-- GitHub Stats -->
