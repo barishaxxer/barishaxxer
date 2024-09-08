@@ -65,8 +65,6 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiastic who lo
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.splunk.com/content/dam/splunk2/images/icons/Splunk-Logo.png" alt="splunk" width="80" height="40"/>
   </a>
-  <a href="https://www.elastic.co/security" target="_blank" rel="noreferrer"> 
-
   <a href="https://www.sentinelone.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.sentinelone.com/wp-content/uploads/2021/04/sentinelone-logo.svg" alt="sentinelone" width="100" height="40"/>
   </a>
