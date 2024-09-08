@@ -63,18 +63,18 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiastic who lo
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
   <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.splunk.com/content/dam/splunk2/images/icons/Splunk-Logo.png" alt="splunk" width="80" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Splunk_logo_with_silver_silver_RGB.svg/2560px-Splunk_logo_with_silver_silver_RGB.svg.png" alt="splunk" width="80" height="40"/>
   </a>
   <a href="https://www.sentinelone.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.sentinelone.com/wp-content/uploads/2021/04/sentinelone-logo.svg" alt="sentinelone" width="100" height="40"/>
+    <img src="https://seekvectorlogo.com/wp-content/uploads/2022/02/sentinelone-vector-logo.png" alt="sentinelone" width="100" height="40"/>
   </a>
   <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://attack.mitre.org/images/attack-logo.svg" alt="mitre attack" width="60" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MITRE_logo.svg/2560px-MITRE_logo.svg.png" alt="mitre attack" width="60" height="40"/>
   </a>
   <a href="https://www.burpsuite.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://portswigger.net/bappstore/images/burp-100x100.png" alt="burpsuite" width="40" height="40"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/5b6b37be405e2d00071cfd52/36e98/img/burp-suite-badge.svg" alt="burpsuite" width="40" height="40"/>
   </a>
-</p>
+
 
 <!-- GitHub Stats -->
 ---
