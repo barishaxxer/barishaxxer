@@ -1,7 +1,7 @@
 <!-- Profile Title -->
 <h1 align="center">Hi 👋, I'm Barishaxxer</h1>
 <h3 align="center">A passionate developer specializing in Python, Java, Linux, Docker, and Git</h3>
-I'm [Barış Can Kaya], a passionate [AI developer and security enthusiastic] who loves [solving ctf]. I’m on a mission to ["build meaningful applications, secure environments, improve privacy and contribute to open source community"].
+I'm Barış Can Kaya, a passionate AI developer and security enthusiastic who loves solving ctf. I’m on a mission to "build meaningful applications, secure environments, improve privacy and contribute to open source community".
 
 
 <!-- Profile Views Counter -->
@@ -22,12 +22,12 @@ I'm [Barış Can Kaya], a passionate [AI developer and security enthusiastic] wh
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **f1x_my_1m4g3**
+- 🔭 I’m currently working on **Advanced Penetration Testing and Red Teaming engagements**
 
-- 🌱 I’m currently learning **Kubernetes, Machine Learning, AI**
+- 🌱 I’m currently expanding my expertise in **Threat Hunting, SIEM, and Advanced Persistent Threat (APT) simulation**
 
-- 💬 Ask me about **Python, Java, Linux, Docker, Git**
-
+- 💬 Ask me about **Offensive Security, Exploit Development, Reverse Engineering, Network Security, AI in Cybersecurity, Java, Python, Linux**
+  
 - 📫 How to reach me **bariscankaxxer@gmail.com**
 
 - ⚡ Fun fact **I love to secure everything!**
@@ -52,6 +52,29 @@ I'm [Barış Can Kaya], a passionate [AI developer and security enthusiastic] wh
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.splunk.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.splunk.com/content/dam/splunk2/images/icons/Splunk-Logo.png" alt="splunk" width="80" height="40"/>
+  </a>
+  <a href="https://www.elastic.co/security" target="_blank" rel="noreferrer"> 
+
+  <a href="https://www.sentinelone.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.sentinelone.com/wp-content/uploads/2021/04/sentinelone-logo.svg" alt="sentinelone" width="100" height="40"/>
+  </a>
+  <a href="https://attack.mitre.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://attack.mitre.org/images/attack-logo.svg" alt="mitre attack" width="60" height="40"/>
+  </a>
+  <a href="https://www.burpsuite.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://portswigger.net/bappstore/images/burp-100x100.png" alt="burpsuite" width="40" height="40"/>
   </a>
 </p>
 
