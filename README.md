@@ -1,7 +1,7 @@
 <!-- Profile Title -->
 <h1 align="center">Hi 👋, I'm Barishaxxer</h1>
 <h3 align="center">A passionate developer specializing in Python, Java, Linux, Docker, and Git</h3>
-I'm Barış Can Kaya, a passionate AI developer and security enthusiastic who loves solving ctf. I’m on a mission to "build meaningful applications, secure environments, improve privacy and contribute to open source community".
+I'm Barış Can Kaya, a passionate AI developer and security enthusiast who loves solving ctf. I’m on a mission to "build meaningful applications, secure environments, improve privacy and contribute to open source community".
 
 
 <!-- Profile Views Counter -->
