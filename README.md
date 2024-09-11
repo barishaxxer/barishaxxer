@@ -92,5 +92,5 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
 ---
 
 ### 🌟 Follow Me:
-
+- 📝 [Blog](https://barishaxxer.github.io)
 - 💻 [GitHub](https://github.com/barishaxxer)
