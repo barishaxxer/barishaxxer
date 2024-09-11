@@ -62,6 +62,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
+</p>
 
 
 <!-- GitHub Stats -->
