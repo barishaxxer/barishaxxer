@@ -9,12 +9,14 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <img src="https://komarev.com/ghpvc/?username=barishaxxer&label=Profile%20views&color=0e75b6&style=flat" alt="barishaxxer" /> 
 </p>
 
+
 <!-- Social Media Links -->
 <p align="center">
   <a href="https://twitter.com/barishaxxer" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="barishaxxer" /></a>
   <a href="https://www.linkedin.com/in/baris-can-kaya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="barishaxxer" /></a>
   <a href="https://stackoverflow.com/users/barishaxxer" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="barishaxxer" /></a>
   <a href="https://dev.to/barishaxxer" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="barishaxxer" /></a>
+  <a href="https://barishaxxer.github.io" target="blank"><img align="center src="https://github.com/user-attachments/assets/8b89fbea-bec4-4bd4-9377-2a784955ecb9" alt="blog" /></a>
 </p>
 
 <!-- About Me Section -->
