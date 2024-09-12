@@ -16,7 +16,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <a href="https://www.linkedin.com/in/baris-can-kaya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="barishaxxer" /></a>
   <a href="https://stackoverflow.com/users/barishaxxer" target="blank"><img align="center" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="barishaxxer" /></a>
   <a href="https://dev.to/barishaxxer" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="barishaxxer" /></a>
-  <a href="https://barishaxxer.github.io" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8b89fbea-bec4-4bd4-9377-2a784955ecb9" alt="blog" height="40px" width="100px" /></a>
+  <a href="https://barishaxxer.github.io" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8b89fbea-bec4-4bd4-9377-2a784955ecb9" alt="blog" height="80px" width="80px" /></a>
 </p>
 
 <!-- About Me Section -->
