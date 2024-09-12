@@ -72,7 +72,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/htm
-
+  </a>
 
 </p>
 
