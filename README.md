@@ -65,14 +65,14 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  </a>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/htm
+
 
 </p>
 
