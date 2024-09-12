@@ -64,16 +64,16 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
-  <a href="https://sass-lang.com/" target="_bank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="sass" width="40" height="40"/>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/>
   </a>
-   <a href="https://en.wikipedia.org/wiki/CSS" target="_bank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white" alt="css" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
   </a>
-   <a href="https://en.wikipedia.org/wiki/HTML" target="_bank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white" alt="html" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
   </a>
-  
+
 </p>
 
 
