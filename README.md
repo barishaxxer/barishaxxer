@@ -62,6 +62,9 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
+  <a href="https://sass-lang.com/" target="_bank" rel="noreferrer">
+    <img src=https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white alt="sass" width="40" height="40"/>
+  </a>
 </p>
 
 
