@@ -107,7 +107,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
 ### 🌟 Follow Me:
 - 📝 [Blog](https://barishaxxer.github.io)
 - 💻 [GitHub](https://github.com/barishaxxer)
-- [![Telegram](https://raw.githubusercontent.com/devicons/devicon/master/icons/telegram/telegram-original.svg
-)](https://t.me/FUxx0xBytes)
+- ➣0xByteStream [!Telegram](https://t.me/FUxx0xBytes)
+- 💬 Reach me [!Telegram](https://t.me/Kynik0s)
 
 
