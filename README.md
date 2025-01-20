@@ -58,9 +58,6 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> 
-  </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
   </a>
@@ -93,15 +90,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barishaxxer&show_icons=true&locale=en&layout=compact&theme=dark" alt="barishaxxer" />
 </p>
 
-<!-- GitHub Trophies -->
----
 
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=barishaxxer&theme=onedark" alt="barishaxxer" />
-</p>
-
-<!-- Profile Footer -->
 ---
 
 ### 🌟 Follow Me:
