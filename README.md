@@ -55,21 +55,7 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   </a>
-   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.kali.org/images/kali-logo.svg" alt="kali-linux" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-</a>
+
 
 </p>
 
