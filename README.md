@@ -67,6 +67,9 @@ I'm Barış Can Kaya, a passionate AI developer and security enthusiast who love
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=barishaxxer&show_icons=true&theme=dark&locale=en" alt="barishaxxer" />
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats-jet-one.vercel.app?user=barishaxxer&theme=blux&background=45%2C659999%2CF48C8C" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🌟 Follow Me:
